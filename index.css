@@ -46,10 +46,6 @@
   
   .pad>div {
 
-    flex: 1 1 6.25%;
-    /* flex: 0 50%; */
-     /* flex: 1 0 auto; */
-    height: 6.25%;
     display: flex;
     align-items: center;
     justify-content: center;
